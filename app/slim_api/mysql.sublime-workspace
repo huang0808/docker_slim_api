@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dta",
+				"dataTable"
+			],
+			[
+				"getP",
+				"getParams"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"print",
+				"printer_abort"
+			],
+			[
+				"array_u",
+				"array_unique"
+			],
+			[
+				"di",
+				"dividend"
+			],
+			[
+				"id",
+				"idSite"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wanglei/remote/chinalytics_new/piwik.js",
+		"/home/wanglei/remote/chinalytics_new/plugins/Morpheus/templates/_jsGlobalVariables.twig",
+		"/home/wanglei/remote/chinalytics_new/plugins/Overlay/heartz.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/Overlay/API.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/HeatmapSessionRecording/Controller.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/HeatmapSessionRecording/API.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/HeatmapSessionRecording/HeatmapSessionRecording.php",
+		"/home/wanglei/remote/chinalytics_new/core/Db.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/CleanZeroActionsCommand/Commands/CleanZeroActions.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/CleanZeroActionsCommand/CleanZeroActionsCommand.php",
+		"/home/wanglei/remote/chinalytics_new/wanglei_test.php",
+		"/home/wanglei/remote/chinalytics_new/config/config.ini.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/Actions/Reports/GetEntryPageTitles.php",
+		"/home/wanglei/remote/chinalytics_new/core/Plugin/Report.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/Live/templates/_dataTableViz_visitorLog.twig",
+		"/home/wanglei/remote/chinalytics_new/core/Plugin/Controller.php",
+		"/home/wanglei/remote/chinalytics_new/core/Access.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/Live/templates/indexVisitorLog.twig",
+		"/home/wanglei/remote/chinalytics_new/plugins/Live/Reports/GetSimpleLastVisitCount.php",
+		"/home/wanglei/remote/chinalytics_new/core/Plugin/Menu.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/HeatmapSessionRecording/Menu.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/CoreHome/angularjs/widget-loader/widgetloader.directive.html",
+		"/home/wanglei/remote/chinalytics3/wanglei_test.php",
+		"/home/wanglei/remote/chinalytics_new/newserver.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/SearchEngineKeywordsPerformance/vendor/google/auth/src/OAuth2.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/Morpheus/stylesheets/uibase/_headerMessage.less",
+		"/home/wanglei/remote/chinalytics_new/plugins/Morpheus/stylesheets/ui/_components.less",
+		"/home/wanglei/remote/chinalytics_new/plugins/SearchEngineKeywordsPerformance/vendor/google/auth/src/CredentialsLoader.php",
+		"/home/wanglei/remote/chinalytics_new/plugins/SearchEngineKeywordsPerformance/vendor/google/apiclient/src/Google/Client.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Morpheus/templates/_jsGlobalVariables.twig",
+		"/home/wanglei/remote/chinalytics_new/plugins/Morpheus/stylesheets/main.less",
+		"/home/wanglei/Downloads/Swiss Navy Chinalytics Tracking Code.rtf",
+		"/home/wanglei/Downloads/Adam & Eve Chinalytics Tracking Code.rtf",
+		"/home/wanglei/remote/chinalytics3/plugins/Diagnostics/Diagnostic/DiagnosticResultItem.php",
+		"/home/wanglei/app/coupon/index.php",
+		"/home/wanglei/app/site_coupon.conf",
+		"/home/wanglei/remote/slim_api/slim_api/coupon/mysql.php",
+		"/home/wanglei/remote/slim_api/docker-compose.yml",
+		"/home/wanglei/remote/slim_api/slim_api/coupon/index.php",
+		"/home/wanglei/remote/slim_api/site.conf",
+		"/home/wanglei/remote/msr/plugins/PrivacyManager/templates/usersOptOut.twig",
+		"/home/wanglei/remote/msr/plugins/PrivacyManager/templates/privacySettings.twig",
+		"/home/wanglei/remote/msr/plugins/PrivacyManager/Controller.php",
+		"/home/wanglei/remote/chinalytics3/plugins/PrivacyManager/Menu.php",
+		"/home/wanglei/remote/msr/plugins/Chinalytics/Menu.php",
+		"/home/wanglei/remote/slim_api/index.php",
+		"/home/wanglei/remote/slim_api/mysql.php",
+		"/home/wanglei/remote/slim_api/vendor/slim/slim/Slim/App.php",
+		"/home/wanglei/remote/chinalytics3/plugins/VisitorInterest/lang/en.json",
+		"/home/wanglei/remote/msr/config/config.ini.php",
+		"/home/wanglei/Downloads/mytask-02/slim/index.php",
+		"/home/wanglei/remote/slim_api/test.php",
+		"/home/wanglei/Downloads/slim/index.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/Reports/GetBotTracker.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/Reports/GetBotTrackerAnzeige.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/BotTracker.php",
+		"/home/wanglei/remote/chinalytics3/core/DataTable.php",
+		"/home/wanglei/Downloads/app/slim_api/index.php",
+		"/home/wanglei/remote/chinalytics3/misc/GeoIPCity.dat",
+		"/home/wanglei/Downloads/app/slim_api/mysql.php",
+		"/home/wanglei/remote/chinalytics3/plugins/VisitorInterest/Archiver.php",
+		"/home/wanglei/remote/chinalytics3/core/Piwik.php",
+		"/home/wanglei/remote/chinalytics3/plugins/VisitorInterest/API.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Widgetize/Menu.php",
+		"/home/wanglei/remote/chinalytics3/core/Menu/MenuAdmin.php",
+		"/home/wanglei/remote/msr/plugins/API/Menu.php",
+		"/home/wanglei/remote/msr/plugins/Widgetize/Menu.php",
+		"/home/wanglei/remote/msr/plugins/PrivacyManager/Menu.php",
+		"/home/wanglei/remote/chinalytics3/core/Menu/MenuAbstract.php",
+		"/home/wanglei/remote/msr/plugins/CoreHome/Categories/ActionsCategory.php",
+		"/home/wanglei/remote/chinalytics3/plugins/CoreHome/Categories/ActionsCategory.php",
+		"/home/wanglei/remote/slim_api/README.txt",
+		"/home/wanglei/remote/soheyb_docker/site.conf",
+		"/home/wanglei/remote/soheyb_docker/coupon/index.php",
+		"/home/wanglei/remote/msr/index.php",
+		"/home/wanglei/remote/msr/plugins/Referrers/Categories/ReferrersCategory.php",
+		"/home/wanglei/remote/chinalytics3/plugins/UserLanguage/Archiver.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/Archiver.php",
+		"/home/wanglei/remote/chinalytics3/plugins/CustomReports/Archiver.php",
+		"/home/wanglei/remote/chinalytics3/config/config.ini.php",
+		"/home/wanglei/remote/chinalytics3/core/Tracker/Request.php",
+		"/home/wanglei/remote/chinalytics3/core/Plugin/Report.php",
+		"/home/wanglei/remote/chinalytics3/plugins/VisitorInterest/Reports/GetNumberOfVisitsByDaysSinceLast.php",
+		"/home/wanglei/remote/chinalytics3/plugins/VisitorInterest/Columns/VisitsByDaysSinceLastVisit.php",
+		"/home/wanglei/remote/merck/piwik/config/config.ini.php",
+		"/home/wanglei/remote/slim_api/Dockerfile",
+		"/home/wanglei/remote/soheyb_docker/docker-compose.yml",
+		"/home/wanglei/remote/slim_api/slim_api/index.php",
+		"/home/wanglei/remote/msr/piwik.php",
+		"/home/wanglei/remote/msr_new/plugins/Referrers/Categories/ReferrersCategory.php",
+		"/home/wanglei/remote/msr_new/plugins/CoreHome/Categories/ActionsCategory.php",
+		"/home/wanglei/remote/msr/plugins/VisitorInterest/API.php",
+		"/home/wanglei/remote/chinalytics3/core/Translation/Translator.php",
+		"/home/wanglei/remote/chinalytics3/plugins/UsersFlow/Archiver.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/API.php",
+		"/home/wanglei/remote/chinalytics3/plugins/BotTracker/Reports/GetTop10.php",
+		"/home/wanglei/remote/chinalytics3/plugins/CustomReports/API.php",
+		"/home/wanglei/remote/chinalytics3/core/Archive.php",
+		"/home/wanglei/remote/chinalytics3/core/Plugin/ViewDataTable.php",
+		"/home/wanglei/remote/chinalytics3/plugins/UsersFlow/API.php",
+		"/home/wanglei/remote/chinalytics3/core/Widget/WidgetsList.php",
+		"/home/wanglei/remote/chinalytics3/core/Columns/MetricsList.php",
+		"/home/wanglei/remote/chinalytics3/core/Filesystem.php",
+		"/home/wanglei/remote/wanglei/index.php",
+		"/home/wanglei/remote/wanglei/mysql.php",
+		"/home/wanglei/remote/slim/mysql.php",
+		"/home/wanglei/remote/slim/test.php",
+		"/home/wanglei/remote/slim/index.php",
+		"/home/wanglei/Downloads/slim/mysql.php",
+		"/home/wanglei/Downloads/slim/test.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Goals/Goals.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Goals/templates/conversionOverview.twig",
+		"/home/wanglei/Downloads/client_secret_28992548590-b2o0lg3vnq714msplpfigcnobrj2o2kv.apps.googleusercontent.com.json",
+		"/home/wanglei/remote/chinalytics3/js/piwik.min.js",
+		"/home/wanglei/remote/chinalytics3/core/Access.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Goals/Visualizations/Goals.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Goals/Reports/Get.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Goals/Reports/GetMetrics.php",
+		"/home/wanglei/remote/chinalytics3/plugins/API/Renderer/Xml.php",
+		"/home/wanglei/remote/chinalytics3/plugins/API/Renderer/Csv.php",
+		"/home/wanglei/remote/chinalytics3/core/Plugin/API.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Referrers/API.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Referrers/SearchEngine.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Referrers/DataTable/Filter/UrlsFromWebsiteId.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Actions/DataTable/Filter/Actions.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Actions/Reports/GetEntryPageUrls.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Actions/Reports/GetEntryPageTitles.php",
+		"/home/wanglei/remote/chinalytics3/plugins/Actions/Columns/Metrics/BounceRate.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysql.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
